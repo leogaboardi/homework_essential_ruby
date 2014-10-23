@@ -16,3 +16,4 @@ message2 = "Howdy, #{full}. Your lucky number for today is #{lucky_number}."
 
 puts message1
 puts message2
+#aaa
